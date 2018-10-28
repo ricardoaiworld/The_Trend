@@ -1,0 +1,7 @@
+2018
+10.11	1h 	如何连接远程数据库：新建用户，权限授予
+10.12	1h	simplify main function;
+		add new function: extract and normalization country name
+
+
+			

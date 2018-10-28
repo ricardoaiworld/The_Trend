@@ -1,0 +1,192 @@
+#	country	leader_url	government
+1	United States	/wiki/President_of_the_United_States	federal presidential constitutional republic
+2	China	/wiki/President_of_the_People%27s_Republic_of_China	unitary one-party socialist republic
+3	Japan	/wiki/Prime_Minister_of_Japan	unitary parliamentary constitutional monarchy
+4	Germany	/wiki/Chancellor_of_Germany_(Federal_Republic_of_Germany)	federal parliamentary republic
+5	United Kingdom	/wiki/Prime_Minister_of_the_United_Kingdom	unitary parliamentary constitutional monarchy
+6	India	/wiki/Prime_Minister_of_India	federal parliamentary socialist republic
+7	France	/wiki/President_of_France	unitary republic
+8	Brazil	/wiki/President_of_Brazil	federal presidential constitutional republic
+9	Italy	/wiki/Prime_Minister_of_Italy	unitary parliamentary constitutional republic
+10	Canada	/wiki/Prime_Minister_of_Canada	federal parliamentary constitutional monarchy
+11	South Korea	/wiki/President_of_South_Korea	unitary presidential constitutional republic
+12	Russia	/wiki/President_of_Russia	federal dominant-party semi-presidential constitutional republic
+13	Australia	/wiki/Prime_Minister_of_Australia	federal parliamentary constitutional monarchy
+14	Spain	/wiki/Prime_Minister_of_Spain	unitary parliamentary constitutional monarchy
+15	Mexico	/wiki/President_of_Mexico	federal presidential constitutional republic
+16	Indonesia	/wiki/President_of_Indonesia	unitary presidential constitutional republic
+17	Turkey	/wiki/President_of_Turkey	unitary presidential constitutional republic
+18	Netherlands	/wiki/Prime_Minister_of_the_Netherlands	unitary parliamentary constitutional monarchy
+19	Saudi Arabia	url_unknown	unitary islamic totalitarian absolute monarchy
+20	Switzerland	url_unknown	federal semi-direct democracy multi-party parliamentary directorial republic
+21	Argentina	/wiki/President_of_Argentina	federal presidential
+22	Taiwan	/wiki/President_of_the_Republic_of_China	unitary semi-presidential republic
+23	Sweden	/wiki/Prime_Minister_of_Sweden	unitary parliamentary constitutional monarchy
+24	Poland	/wiki/President_of_Poland	unitary semi-presidential republic
+25	Belgium	/wiki/Prime_Minister_of_Belgium	federal parliamentary constitutional monarchy
+26	Thailand	/wiki/Prime_Minister_of_Thailand	unitary parliamentary constitutional monarchy military junta
+27	Iran	/wiki/President_of_Iran	unitary khomeinist presidential islamic republic theocratic republican unitary presidential republic supreme leader
+28	Austria	/wiki/Chancellor_of_Austria	federal parliamentary republic
+29	Norway	/wiki/Prime_Minister_of_Norway	unitary parliamentary constitutional monarchy
+30	United Arab Emirates	url_unknown	
+31	Nigeria	/wiki/President_of_Nigeria	federal presidential republic
+32	Israel	/wiki/Prime_Minister_of_Israel	unitary parliamentary republic
+33	South Africa	url_unknown	unitary dominant-party parliamentary constitutional republic
+34	Hong Kong	url_unknown	devolved executive-led socialist republic
+35	Ireland	url_unknown	
+36	Denmark	/wiki/Prime_Minister_of_Denmark	unitary parliamentary constitutional monarchy
+37	Singapore	/wiki/Prime_Minister_of_Singapore	unitary dominant-party parliamentary republic
+38	Malaysia	/wiki/Prime_Minister_of_Malaysia	federal parliamentary elective constitutional monarchy
+39	Philippines	/wiki/President_of_the_Philippines	unitary presidential constitutional republic
+40	Colombia	/wiki/President_of_Colombia	unitary presidential constitutional republic
+41	Pakistan	url_unknown	federal parliamentary constitutional republic
+42	Chile	/wiki/President_of_Chile	unitary presidential
+43	Bangladesh	/wiki/Prime_Minister_of_Bangladesh	unitary parliamentary republic
+44	Finland	/wiki/Prime_Minister_of_Finland	unitary parliamentary republic
+45	Egypt	/wiki/President_of_Egypt	unitary semi-presidential republic
+46	Vietnam	url_unknown	unitary marxist-leninist one-party socialist republic
+47	Portugal	/wiki/President_of_Portugal	unitary semi-presidential constitutional republic
+48	Peru	url_unknown	unitary presidential republic
+49	Czech Republic	/wiki/Prime_Minister_of_the_Czech_Republic	unitary parliamentary constitutional republic
+50	Romania	/wiki/President_of_Romania	unitary semi-presidential republic
+51	Venezuela	/wiki/President_of_Venezuela	federal presidential constitutional republic
+52	New Zealand	/wiki/Prime_Minister_of_New_Zealand	unitary parliamentary constitutional monarchy
+53	Greece	/wiki/Prime_Minister_of_Greece	unitary parliamentary republic
+54	Iraq	/wiki/Prime_Minister_of_Iraq	federal parliamentary republic
+55	Algeria	/wiki/President_of_Algeria	unitary semi-presidential
+56	Qatar	url_unknown	unitary constitutional monarchy
+57	Kazakhstan	/wiki/President_of_Kazakhstan	unitary presidential constitutional republic
+58	Hungary	/wiki/List_of_Prime_Ministers_of_Hungary	unitary parliamentary republic
+59	Angola	/wiki/President_of_Angola	unitary dominant-party presidential constitutional republic
+60	Kuwait	url_unknown	unitary constitutional monarchy
+61	Morocco	/wiki/Prime_Minister_of_Morocco	unitary parliamentary constitutional monarchy
+62	Ukraine	/wiki/President_of_Ukraine	unitary semi-presidential constitutional republic
+63	Ecuador	/wiki/President_of_Ecuador	unitary presidential
+64	Puerto Rico	url_unknown	commonwealth [b]
+65	Slovakia	/wiki/Prime_Minister_of_Slovakia	unitary parliamentary republic
+66	Sri Lanka	/wiki/President_of_Sri_Lanka	unitary semi-presidential constitutional republic
+67	Ethiopia	/wiki/Prime_Minister_of_Ethiopia	federal dominant-party parliamentary republic
+68	Kenya	/wiki/President_of_Kenya	unitary presidential constitutional republic
+69	Syria	/wiki/President_of_Syria	unitary dominant-party semi-presidential republic
+70	Guatemala	/wiki/President_of_Guatemala	unitary presidential republic
+71	Dominican Republic	url_unknown	
+72	Oman	url_unknown	unitary parliamentary absolute monarchy
+73	Myanmar	url_unknown	unitary parliamentary constitutional republic
+74	Luxembourg	/wiki/Prime_Minister_of_Luxembourg	unitary parliamentary constitutional monarchy
+75	Uruguay	/wiki/President_of_Uruguay	unitary presidential
+76	Panama	/wiki/List_of_heads_of_state_of_Panama	unitary presidential constitutional republic
+77	Costa Rica	/wiki/President_of_Costa_Rica	unitary presidential constitutional republic
+78	Sudan	url_unknown	federal dominant-party presidential republic de jure one-party state totalitarian dictatorship de facto
+79	Bulgaria	/wiki/Prime_Minister_of_Bulgaria	unitary parliamentary constitutional republic
+80	Croatia	/wiki/Prime_Minister_of_Croatia	unitary parliamentary constitutional republic
+81	Belarus	/wiki/President_of_Belarus	unitary presidential republic
+82	Tanzania	/wiki/President_of_Tanzania	unitary dominant-party presidential constitutional socialist republic
+83	Lebanon	/wiki/Prime_Minister_of_Lebanon	unitary parliamentary multi-confessionalist republic
+84	Macau	url_unknown	devolved parliamentary multi-party system socialist republic
+85	Slovenia	/wiki/Prime_Minister_of_Slovenia	unitary parliamentary constitutional republic
+86	Uzbekistan	/wiki/President_of_Uzbekistan	unitary presidential constitutional republic
+87	Lithuania	/wiki/List_of_rulers_of_Lithuania	unitary semi-presidential republic
+88	Ghana	/wiki/President_of_Ghana	unitary presidential constitutional republic
+89	Serbia	/wiki/Prime_Minister_of_Serbia	unitary parliamentary constitutional republic
+90	Democratic Republic of the Congo	url_unknown	
+91	Azerbaijan	/wiki/President_of_Azerbaijan	unitary dominant-party semi-presidential republic
+92	Jordan	/wiki/Prime_Minister_of_Jordan	unitary parliamentary constitutional monarchy
+93	Côte d'Ivoire	/wiki/List_of_heads_of_state_of_Ivory_Coast	unitary presidential republic parliamentary system
+94	Tunisia	/wiki/President_of_Tunisia	unitary semi-presidential republic
+95	Turkmenistan	url_unknown	unitary presidential republic one-party authoritarian dictatorship
+96	Bolivia	/wiki/President_of_Bolivia	unitary presidential
+97	Bahrain	url_unknown	unitary constitutional monarchy
+98	Cameroon	url_unknown	unitary dominant-party presidential republic authoritarian dictatorship
+99	Libya	url_unknown	
+100	Latvia	/wiki/Prime_Minister_of_Latvia	unitary parliamentary constitutional republic
+101	Paraguay	/wiki/President_of_Paraguay	unitary dominant-party presidential republic
+102	El Salvador	/wiki/President_of_El_Salvador	unitary presidential constitutional republic
+103	Uganda	/wiki/President_of_Uganda	unitary dominant-party semi-presidential republic
+104	Estonia	/wiki/Prime_Minister_of_Estonia	unitary parliamentary republic
+105	Zambia	/wiki/List_of_Presidents_of_Zambia	unitary presidential constitutional republic
+106	Nepal	/wiki/List_of_Prime_Ministers_of_Nepal	federal parliamentary republic
+107	Iceland	/wiki/Prime_Minister_of_Iceland	unitary parliamentary republic
+108	Papua New Guinea	/wiki/Prime_Minister_of_Papua_New_Guinea	unitary parliamentary constitutional monarchy
+109	Honduras	url_unknown	presidential republic
+110	Cambodia	/wiki/Prime_Minister_of_Cambodia	unitary dominant-party parliamentary elective constitutional monarchy
+111	Cyprus	/wiki/President_of_Cyprus	unitary presidential constitutional republic
+112	Afghanistan	/wiki/President_of_Afghanistan	unitary presidential islamic republic
+113	Trinidad and Tobago	/wiki/List_of_Prime_Ministers_of_Trinidad_and_Tobago	unitary parliamentary constitutional republic
+114	Bosnia and Herzegovina	/wiki/Chairman_of_the_Council_of_Ministers_of_Bosnia_and_Herzegovina	federal parliamentary constitutional republic
+115	Laos	url_unknown	unitary one-party socialist republic
+116	Zimbabwe	/wiki/List_of_Presidents_of_Zimbabwe	unitary presidential republic
+117	Botswana	url_unknown	unitary parliamentary republic
+118	Yemen	url_unknown	unitary provisional government
+119	Senegal	url_unknown	unitary semi-presidential republic
+120	Georgia	url_unknown	
+121	Mali	url_unknown	
+122	Gabon	url_unknown	unitary dominant-party presidential republic
+123	Jamaica	/wiki/Prime_Minister_of_Jamaica	unitary parliamentary representative democracy constitutional monarchy
+124	Nicaragua	/wiki/President_of_Nicaragua	unitary dominant-party presidential constitutional republic
+125	Burkina Faso	/wiki/List_of_heads_of_state_of_Burkina_Faso	unitary semi-presidential republic
+126	Albania	/wiki/Prime_Minister_of_Albania	unitary parliamentary constitutional republic
+127	Namibia	/wiki/President_of_Namibia	unitary dominant-party semi-presidential republic
+128	Mozambique	/wiki/List_of_Presidents_of_Mozambique	unitary dominant-party semi-presidential constitutional republic
+129	Mauritius	/wiki/Prime_Minister_of_Mauritius	unitary parliamentary republic
+130	Malta	url_unknown	unitary parliamentary constitutional republic
+131	Brunei	url_unknown	unitary islamic absolutemonarchy
+132	Macedonia	url_unknown	
+133	Armenia	/wiki/Prime_Minister_of_Armenia	unitary parliamentary republic
+134	Mongolia	/wiki/President_of_Mongolia	unitary semi-presidential republic
+135	Madagascar	/wiki/List_of_Presidents_of_Madagascar	unitary semi-presidential constitutional republic
+136	Equatorial Guinea	url_unknown	unitary dominant-party presidential republic de jure authoritarian dictatorship de facto
+137	Chad	url_unknown	unitary dominant-party presidential republic de jure totalitarian dictatorship de facto
+138	Benin	/wiki/List_of_heads_of_state_of_Benin	presidential republic
+139	Guinea	url_unknown	unitary presidential republic
+140	Bahamas	/wiki/Prime_Minister_of_the_Bahamas	unitary parliamentary constitutional monarchy
+141	Rwanda	/wiki/List_of_Presidents_of_Rwanda	unitary dominant-party presidential republic
+142	Kosovo	/wiki/Prime_Minister_of_Kosovo	unitary parliamentary constitutional republic
+143	Haiti	/wiki/President_of_Haiti	unitary semi-presidential republic
+144	Moldova	/wiki/Prime_Minister_of_Moldova	unitary parliamentary constitutional republic
+145	Niger	/wiki/List_of_heads_of_state_of_Niger	unitary semi-presidential republic
+146	Republic of Congo	/wiki/President_of_the_Republic_of_the_Congo	unitary semi-presidential republic
+147	Tajikistan	/wiki/President_of_Tajikistan	unitary dominant-party presidential constitutional republic
+148	Kyrgyzstan	/wiki/Prime_Minister_of_Kyrgyzstan	unitary parliamentary republic
+149	Malawi	/wiki/President_of_Malawi	unitary presidential republic
+150	Eritrea	url_unknown	unitary one-party presidential republic
+151	Fiji	/wiki/Prime_Minister_of_Fiji	unitary parliamentary constitutional republic
+152	Mauritania	/wiki/List_of_heads_of_state_of_Mauritania	unitary semi-presidential islamic republic
+153	Barbados	/wiki/Prime_Minister_of_Barbados	unitary parliamentary constitutional monarchy
+154	Togo	url_unknown	unitary dominant-party presidential republic
+155	Maldives	/wiki/President_of_the_Maldives	unitary presidential republic
+156	Montenegro	/wiki/Prime_Minister_of_Montenegro	unitary dominant-party parliamentary constitutional republic
+157	Swaziland	/wiki/List_of_Prime_Ministers_of_Swaziland	unitary parliamentary absolute diarchy
+158	Sierra Leone	/wiki/President_of_Sierra_Leone	unitary presidential constitutional republic
+159	Suriname	url_unknown	presidential republic
+160	Guyana	/wiki/President_of_Guyana	unitary presidential constitutional socialist republic
+161	Burundi	/wiki/List_of_Presidents_of_Burundi	presidential republic
+162	South Sudan	/wiki/List_of_presidents_of_South_Sudan	federal presidential constitutional republic
+163	Lesotho	url_unknown	unitary parliamentary constitutional monarchy
+164	Timor-Leste	/wiki/President_of_East_Timor	unitary semi-presidential constitutional republic
+165	Bhutan	/wiki/List_of_Prime_Ministers_of_Bhutan	unitary parliamentary constitutional monarchy
+166	Liberia	/wiki/President_of_Liberia	unitary presidential constitutional republic
+167	Djibouti	/wiki/List_of_heads_of_state_of_Djibouti	unitary dominant-party presidential republic
+168	Central African Republic	/wiki/List_of_heads_of_state_of_the_Central_African_Republic_and_Central_African_Empire	unitary semi-presidential constitutional republic
+169	Belize	/wiki/Prime_Minister_of_Belize	unitary parliamentary constitutional monarchy
+170	Cape Verde	/wiki/President_of_Cape_Verde	unitary semi-presidential republic
+171	St. Lucia	/wiki/Prime_Minister_of_Saint_Lucia	unitary parliamentary constitutional monarchy
+172	San Marino	url_unknown	unitary parliamentary directorial republic
+173	Antigua and Barbuda	/wiki/Prime_Minister_of_Antigua_and_Barbuda	unitary parliamentary constitutional monarchy
+174	Seychelles	/wiki/List_of_Presidents_of_Seychelles	unitary presidential republic
+175	Guinea-Bissau	/wiki/List_of_Presidents_of_Guinea-Bissau	unitary semi-presidential republic
+176	Solomon Islands	/wiki/Prime_Minister_of_Solomon_Islands	unitary parliamentary constitutional monarchy
+177	Grenada	url_unknown	unitary two-party parliamentary system constitutional monarchy
+178	The Gambia	/wiki/President_of_the_Gambia	unitary presidential republic
+179	St. Kitts and Nevis	/wiki/Prime_Minister_of_Saint_Kitts_and_Nevis	federal parliamentary constitutional monarchy
+180	Samoa	url_unknown	unitary dominant-party parliamentary democracy
+181	Vanuatu	/wiki/Prime_Minister_of_Vanuatu	unitary parliamentary republic
+182	St. Vincent and the Grenadines	/wiki/Prime_Minister_of_Saint_Vincent_and_the_Grenadines	unitary parliamentary constitutional monarchy
+183	Comoros	/wiki/President_of_the_Comoros	federal presidential republic
+184	Dominica	/wiki/Prime_Minister_of_Dominica	unitary parliamentary republic
+185	Tonga	/wiki/Prime_Minister_of_Tonga	unitary parliamentary constitutional monarchy
+186	São Tomé and Príncipe	/wiki/List_of_heads_of_state_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe	unitary semi-presidential republic
+187	Federated States of Micronesia	url_unknown	federated presidential republic non-partisan democracy
+188	Palau	/wiki/President_of_Palau	unitary presidential constitutional republic non-partisan democracy
+189	Marshall Islands	url_unknown	unitary parliamentary republic
+190	Kiribati	url_unknown	unitary parliamentary republic
+191	Tuvalu	/wiki/Prime_Minister_of_Tuvalu	unitary non-partisan parliamentary constitutional monarchy

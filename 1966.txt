@@ -1,0 +1,174 @@
+1	Egypt	Monarch: Fuad II,	Prime Minister: Gamal Abdel Nasser,	Regent - Prince: Muhammad Abdel Moneim,	President: Gamal Abdel Nasser,
+2	Ethiopia	Monarch: Haile Selassie,	Prime Minister: Aklilu Habte-Wold,
+3	Liberia	President: William Tubman,
+4	South Africa	Monarch: Elizabeth II,	Governor-General: Charles Robberts Swart,Lucas Cornelius Steyn,	Prime Minister: Hendrik Verwoerd,	President: Charles Robberts Swart,
+5	Afghanistan	Monarch: Mohammed Zahir Shah,	Prime Minister: Mohammed Daoud Khan,
+6	Burma	President: Win Maung,	Prime Minister: U Nu,	Governor - Sir: Hubert Rance,
+7	China	President: Chiang Kai-shek,	Premier: Zhou Enlai,	Monarch: Tenzin Gyatso,	Communist Party Leader: Mao Zedong,	Head of State: Liu Shaoqi,
+8	China - Nationalist Government	President: Chiang Kai-shek,	Premier: Chiang Kai-shek,T. V. Soong,
+9	China - Nationalist Government - Reorganized National Government	Head of State: Chen Gongbo,
+10	China - Nationalist Government - Reorganized National Government - Manchukuo	Monarch: Puyi,	Prime Minister: Zhang Jinghui,
+11	China - Nationalist Government - Reorganized National Government - Manchukuo - East Turkestan	President: Elihan Tore,
+12	China - Nationalist Government - Reorganized National Government - Manchukuo - East Turkestan - Tibet	Monarch: Tenzin Gyatso,
+13	Indonesia	President: Sukarno,	Prime Minister: Djuanda Kartawidjaja,	Leader: Sekarmadji Maridjan Kartosuwirjo,
+14	Iran	Monarch: Mohammad Reza Pahlavi,	Prime Minister: Jafar Sharif-Emami,Ali Amini,	Chairman: Ja'far Pishevari,
+15	Iraq	Monarch: Faisal II,	Regent - Crown Prince: 'Abd al-Ilah,	Prime Minister: Abd al-Karim Qasim,	Head of State: Muhammad Najib ar-Ruba'i,
+16	Japan	Monarch: Hirohito,	Prime Minister: Hayato Ikeda,	Military Governor: Matthew Ridgway,
+17	Cambodia	Monarch: Norodom Suramarit,	Prime Minister: Pho Proeung,Penn Nouth,Norodom Sihanouk,	Commissioner: Jean Risterucci,	Prime Minister - Prince: Norodom Sihanouk,	Head of State - Prince: Norodom Sihanouk,
+18	Lebanon	President: Fuad Chehab,	Prime Minister: Saeb Salam,Rashid Karami,
+19	Mongolia	Communist Party Leader: Yumjaagiin Tsedenbal,	Head of State: Jamsrangiin Sambuu,	Premier: Yumjaagiin Tsedenbal,
+20	Muscat and Oman	Monarch: Said Bin Taimur,
+21	Nepal	Monarch: Mahendra,	Prime Minister: Tulsi Giri,
+22	Philippines	President: Carlos P. Garcia,Diosdado Macapagal,	High Commissioner: Paul V. McNutt,
+23	Saudi Arabia	Monarch: Saud,	Prime Minister: Saud,	Prime Minister - Crown Prince: Faisal,
+24	Siam	Monarch: Bhumibol Adulyadej,	Regent: Prince Rangsit Prayurasakdi, Prince of Chainat,	Prime Minister: Khuang Aphaiwong,Plaek Phibunsongkhram,
+25	Syria	President: Maamun al-Kuzbari,Izzat an-Nuss,Nazim al-Kudsi,	Prime Minister: Abdel Hamid Sarraj,Maamun al-Kuzbari,Izzat an-Nuss,Maarouf al-Dawalibi,	Head of State: Fawzi Selu,Adib Shishakli,
+26	Thailand	Monarch: Bhumibol Adulyadej,	Regent: Prince Rangsit Prayurasakdi, Prince of Chainat,Dhani Nivat,	Prime Minister: Sarit Thanarat,	Regent - Queen: Sirikit,
+27	Turkey	President: Celâl Bayar,	Prime Minister: Cemal Gürsel,Fahrettin Özdilek,İsmet İnönü,	Head of State: Cemal Gürsel,
+28	Empire of Vietnam	Monarch: Bảo Đại,	Prime Minister: Trần Trọng Kim,
+29	North Vietnam	Communist Party Leader: Lê Duẩn,	President: Hồ Chí Minh,	Premier: Phạm Văn Đồng,
+30	Yemen	Monarch: Ahmad bin Yahya,	Prime Minister: Hassan ibn Yahya,
+31	Albania	Communist Party Leader: Enver Hoxha,	Head of State: Haxhi Lleshi,	Premier: Mehmet Shehu,
+32	Andorra	Monarchs: Charles de Gaulle,Jean Lafon de Lageneste,Jean Lafon de Lageneste,Étienne Vaysset,Ramon Iglesias i Navarri,Jaume Sansa Nequí,	French Co-Prince: Charles de Gaulle,	Co-Prince's Representative: Jaume Sansa Nequí,	Episcopal Co-Prince: Ramon Iglesias i Navarri,	First Syndic: Julià Reig Ribó,
+33	Austria	President: Adolf Schärf,	Chancellor: Julius Raab,Alfons Gorbach,	American high commissioner: Llewellyn Thompson,	British high commissioner - Sir: Geoffrey Wallinger,	French high commissioner: Jean Payart,	Soviet high commissioner: Ivan Ilichev,	British high commissioner: Harold Caccia,Geoffrey Wallinger,
+34	Belgium	Monarch: Baudouin,	Regent: Prince Baudouin, Duke of Brabant,	Prime Minister: Gaston Eyskens,Théo Lefèvre,
+35	Bulgaria	Monarch: Simeon II,	Regents: Venelin Ganev,	Premier: Anton Yugov,	Regent: Venelin Ganev,	Republican Head of State: Vasil Kolarov,	Head of State: Dimitar Ganev,	Communist Party Leader: Todor Zhivkov,
+36	Croatia	Head of State: Ante Pavelić,	Prime Minister: Nikola Mandić,
+37	Czechoslovakia	President: Antonín Novotný,	Prime Minister: Viliam Široký,	German Governor: Wilhelm Frick,	Communist Party Leader: Antonín Novotný,
+38	Denmark	Monarch: Frederick IX,	Prime Minister: Viggo Kampmann,	German Governor: Werner Best,
+39	Finland	President - Baron: Carl Gustaf Emil Mannerheim,	Prime Minister: V. J. Sukselainen,Eemil Luukka,Martti Miettunen,	President: Urho Kekkonen,
+40	France	Head of State: Léon Blum,Vincent Auriol,	Prime Minister: Michel Debré,	President: Charles de Gaulle,
+41	Germany	Head of State: Adolf Hitler,Karl Dönitz,	Chancellor: Adolf Hitler,Joseph Goebbels,Lutz Graf Schwerin von Krosigk,	Military Governor: Vasily Sokolovsky,	Military Governor - Sir: Brian Robertson,
+42	Greece	Monarch: Paul,	Regent - Archbishop: Damaskinos,	Prime Minister: Konstantinos Karamanlis,Konstantinos Dovas,Konstantinos Karamanlis,	Communist Party Leader: Nikos Zachariadis,	Head of Government: Markos Vafiadis,Nikos Zachariadis,Dimitrios Partsalidis,
+43	Hungary	Head of State: István Dobi,	Prime Minister: Lajos Dinnyés,István Dobi,	President: Zoltán Tildy,Árpád Szakasits,	Communist Party Leader: János Kádár,	Premier: Ferenc Münnich,János Kádár,
+44	Iceland	President: Ásgeir Ásgeirsson,	Prime Minister: Ólafur Thors,Bjarni Benediktsson,
+45	Ireland	Monarch: George VI,	President: Éamon de Valera,	Prime Minister: Seán Lemass,
+46	Italy	Monarch: Victor Emmanuel III,Umberto II,	Regent: Prince Umberto, Prince of Piedmont,	Republican Head of State: Alcide De Gasperi,Enrico De Nicola,	Prime Minister: Amintore Fanfani,	Head of State: Enrico De Nicola,Luigi Einaudi,	President: Giovanni Gronchi,
+47	Italy - Kingdom of Italy	Monarch: Victor Emmanuel III,	Regent: Prince Umberto, Prince of Piedmont,	Prime Minister: Ivanoe Bonomi,Ferruccio Parri,Alcide De Gasperi,
+48	Italy - Kingdom of Italy - Italian Social Republic	Head of State: Benito Mussolini,
+49	Liechtenstein	Monarch: Franz Joseph II,	Prime Minister: Alexander Frick,
+50	Luxembourg	Monarch: Charlotte,	Prime Minister: Pierre Werner,	Regent - Hereditary Grand Duke: Jean,
+51	Monaco	Monarch: Rainier III,	Head of Government: Émile Pelletier,
+52	Netherlands	German Governor: Arthur Seyss-Inquart,	Monarch: Juliana,	Prime Minister: Willem Drees,	Regent - Princess: Juliana,
+53	Norway	German Governor: Josef Terboven,Franz Böhme,	Monarch: Olav V,	Prime Minister: Einar Gerhardsen,	Regent - Crown Prince: Olav,
+54	Poland	Communist Party Leader: Władysław Gomułka,	Head of State: Aleksander Zawadzki,	Premier: Józef Cyrankiewicz,	President: Bolesław Bierut,	Prime Minister: Tomasz Arciszewski,
+55	Portugal	President: Américo Tomás,	Premier: António de Oliveira Salazar,
+56	Romania	Monarch: Michael I,	Premier: Chivu Stoica,Ion Gheorghe Maurer,	Communist Party Leader: Gheorghe Gheorghiu-Dej,	Head of State: Ion Gheorghe Maurer,Gheorghe Gheorghiu-Dej,
+57	San Marino	Captains Regent: Mariano Ceccoli,Giordano Giacomini,Federico Bigi,Marino Valdes Franciosi,
+58	Slovakia	President: Jozef Tiso,	Prime Minister: Štefan Tiso,
+59	Soviet Union	Communist Party Leader: Nikita Khrushchev,	Head of State: Leonid Brezhnev,	Premier: Nikita Khrushchev,
+60	Spain	Head of State: Francisco Franco,	Prime Minister: Francisco Franco,
+61	Sweden	Monarch: Gustaf VI Adolf,	Prime Minister: Tage Erlander,
+62	Switzerland
+63	United Kingdom	Monarch: Elizabeth II,	Prime Minister: Harold Macmillan,	Prime Minister - Sir: Anthony Eden,
+64	Vatican City	Monarch: Pope John XXIII,	Governor - Marquis: Camillo Serafini,	President of the Governorate - Cardinal: Nicola Canali,	Secretary of State: Domenico Tardini,Amleto Giovanni Cicognani,	Secretary of State - Cardinal: Domenico Tardini,	President of the Governorate: Nicola Canali,Amleto Giovanni Cicognani,
+65	Yugoslavia	Communist Party leader: Josip Broz Tito,	Head of State: Ivan Ribar,Josip Broz Tito,	Prime Minister: Josip Broz Tito,	Monarch: Peter II,	Premier: Josip Broz Tito,	President: Josip Broz Tito,
+66	Canada	Monarch: Elizabeth II,	Governor General: Georges Vanier,	Prime Minister: John Diefenbaker,
+67	Costa Rica	President: Mario Echandi Jiménez,
+68	Cuba	President: Osvaldo Dorticós Torrado,	Premier: Carlos Prío Socarrás,Raúl López del Castillo,	Prime Minister: Fidel Castro,
+69	Dominican Republic	Head of State: Rafael Trujillo,	President: Joaquín Balaguer,
+70	El Salvador	President: José María Lemus,	Head of State: Junta of Government,Civic-Military Directory,
+71	Guatemala	President: Miguel Ydígoras Fuentes,
+72	Haiti	President: François Duvalier,	Head of State: Joseph Nemours Pierre-Louis,Franck Sylvain,Léon Cantave,Executive Government Council,Léon Cantave,Daniel Fignolé,Antonio Thrasybule Kébreau,François Duvalier,
+73	Honduras	President: Ramón Villeda Morales,
+74	Mexico	President: Adolfo López Mateos,
+75	Nicaragua	President: Luis Somoza Debayle,
+76	Panama	President: Roberto Francisco Chiari Remón,
+77	United States of America	President: Dwight D. Eisenhower,John F. Kennedy,
+78	Australia	Monarch: Elizabeth II,	Governor-General: William Morrison, Viscount Dunrossil,Dallas Brooks,William Sidney, Viscount De L'Isle,	Prime Minister: Robert Menzies,	Governor-General - Sir: William Slim,
+79	New Zealand	Monarch: Elizabeth II,	Governor-General - Sir: Willoughby Norrie,	Prime Minister: Keith Holyoake,	Governor-General: Charles Lyttelton, Viscount Cobham,
+80	Argentina	President: Arturo Frondizi,
+81	Bolivia	President: Víctor Paz Estenssoro,
+82	Brazil	President: Juscelino Kubitschek,Jânio Quadros,Pascoal Ranieri Mazzilli,João Goulart,	Prime Minister: Tancredo Neves,
+83	Chile	President: Jorge Alessandri,
+84	Colombia	President: Alberto Lleras Camargo,	Head of State: Gabriel París Gordillo,Alberto Lleras Camargo,
+85	Ecuador	President: José María Velasco Ibarra,Carlos Julio Arosemena Monroy,
+86	Paraguay	President: Alfredo Stroessner,
+87	Peru	President: Manuel Prado Ugarteche,	Prime Minister: Pedro Gerardo Beltrán Espantoso,Carlos Moreyra y Paz Soldán,
+88	Uruguay	President: Luis Batlle Berres,Andrés Martínez Trueba,	Head of State: Benito Nardone,Eduardo Víctor Haedo,
+89	Venezuela	President: Rómulo Betancourt,	Head of State: Germán Suárez Flamerich,Marcos Pérez Jiménez,
+90	China - Chiang Kai-shek
+91	China - Chiang Kai-shek - T. V. Soong
+92	China - Chiang Kai-shek - T. V. Soong - East Turkestan	President: Elihan Tore,
+93	China - Chiang Kai-shek - T. V. Soong - East Turkestan - Tibet	Monarch: Tenzin Gyatso,
+94	Iran - Mohammad Reza Pahlavi
+95	Transjordan	British resident: Alec Kirkbride,	Monarch: Abdullah I,	Prime Minister: Tawfik Abu al-Huda,
+96	South Vietnam	Head of State: Bảo Đại,Ngô Đình Diệm,	Prime Minister: Ngô Đình Diệm,	President: Ngô Đình Diệm,
+97	Bhutan	Monarch: Jigme Dorji Wangchuck,	Prime Minister: Jigme Palden Dorji,
+98	India	Monarch: George VI,	Prime Minister: Jawaharlal Nehru,	Governor-General: Manuel António Vassalo e Silva,	President: Rajendra Prasad,
+99	Pakistan	Monarch: Elizabeth II,	Governor-General: Iskander Mirza,	Prime Minister: Feroz Khan Noon,Ayub Khan,	Governor-General - Sir: Khawaja Nazimuddin,	Prime Minister - Sir: Khawaja Nazimuddin,	President: Ayub Khan,
+100	Trieste	Military Governor: John Winterton,Miloš Stamatović,	Zone A: Terence Airey,John Winterton,	Zone B: Miloš Stamatović,	Zone A - Sir: John Winterton,
+101	Ceylon	Monarch: Elizabeth II,	Governor-General - Sir: Oliver Ernest Goonetilleke,	Prime Minister: Sirimavo Bandaranaike,	Governors-General: Henry Monck-Mason Moore,Arthur Wijewardena,Herwald Ramsbotham, Baron Soulbury,	Governor-General: Herwald Ramsbotham, Baron Soulbury,Oliver Ernest Goonetilleke,	Prime Minister - Sir: John Kotelawala,
+102	Israel	High Commissioner - Sir: Alan Cunningham,	President: Yitzhak Ben-Zvi,	Prime Minister: David Ben-Gurion,
+103	North Korea	Soviet commander-in-chief: Gennady Korotkov,	Communist Party Leader: Kim Il-sung,	Head of State: Choi Yong-kun,	Prime Minister: Kim Il-sung,
+104	South Korea	American military governor: William F. Dean,	President: Yun Bo-seon,	Prime Minister: Baek Du-jin,
+105	People's Republic of China	Communist Party Leader: Mao Zedong,	Head of State: Mao Zedong,	Premier: Zhou Enlai,	Monarch: Tenzin Gyatso,
+106	Republic of China	President: Chiang Kai-shek,Li Zongren,	Premier: Sun Fo,He Yingqin,Yan Xishan,
+107	Jordan	Monarch: Hussein,	Prime Minister: Bahjat Talhouni,	Regent: Prince Nayef bin Abdullah,	Regent - Queen: Zein al-Sharaf Talal,
+108	West Germany	Military Governor: Marie-Pierre Kœnig,	Military Governor - Sir: Brian Robertson,	President: Heinrich Lübke,	Chancellor: Konrad Adenauer,	Governing Mayor: Willy Brandt,
+109	East Germany	Military Governor: Vasily Sokolovsky,Vasily Chuikov,	Communist Party Leader: Walter Ulbricht,	President: Wilhelm Pieck,	Premier: Otto Grotewohl,	Head of State: Walter Ulbricht,
+110	Taiwan	President: Chiang Kai-shek,	Premier: Chen Cheng,
+111	Libya	UN Commissioner: Adriaan Pelt,	Monarch: Idris,	Prime Minister: Muhammad Osman Said,
+112	Laos	Commissioner: Robert Regnier,Miguel de Pereyra,	Monarch: Savang Vatthana,	Prime Minister - Prince: Boun Oum,	Prime Minister: Phoui Sananikone,Sounthone Pathammavong,
+113	The Netherlands	Monarch: Juliana,	Prime Minister: Willem Drees,
+114	Kingdom of Denmark
+115	United States
+116	Kingdom of the Netherlands	Monarch: Juliana,	Prime Minister: Severinus Désiré Emanuels,	Governor: Antonius B. Speekenbrink,Christiaan Winkel,	Governor-General: Jan van Tilburg,
+117	Morocco	French Resident-General: André Dubois,	Spanish High Commissioner: Rafael García Valiño,	Monarch: Mohammed V,Hassan II,	Prime Minister: Abdallah Ibrahim,
+118	Sudan	Head of State: Sovereignty Council,Ibrahim Abboud,	Prime Minister: Ibrahim Abboud,	President: Ibrahim Abboud,
+119	Tunisia	High Commissioner: Roger Seydoux,	Monarch: Muhammad VIII al-Amin,	Prime Minister: Habib Bourguiba,	President: Habib Bourguiba,
+120	Ghana	Monarch: Elizabeth II,	Governor-General: William Hare, Earl of Listowel,	Prime Minister: Kwame Nkrumah,	President: Kwame Nkrumah,
+121	Malaya	High Commissioner - Sir: Donald MacGillivray,	Monarch: Tuanku Syed Putra,	Prime Minister: Tunku Abdul Rahman,
+122	Guinea	Governor: Jean Ramadier,Jean Mauberna,	President: Ahmed Sékou Touré,	Prime Minister: Ahmed Sékou Touré,
+123	United Arab Republic	President: Gamal Abdel Nasser,	Prime Minister: Gamal Abdel Nasser,
+124	Arab Federation	Monarch: Faisal II,
+125	Suvadive Islands	President: Abdullah Afeef,
+126	Cameroon	President: Ahmadou Ahidjo,	East Cameroon: Charles Assalé,	West Cameroon: John Ngu Foncha,	Commissioner: John Osbaldiston Field,
+127	Central African Republic	President: David Dacko,
+128	Chad	Head of State: François Tombalbaye,	Prime Minister: François Tombalbaye,
+129	Congo–Brazzaville	President: Fulbert Youlou,
+130	Congo–Léopoldville	Head of State: Joseph Kasa-Vubu,	Prime Minister: Joseph Ngalula,	President: Moise Tshombe,
+131	Dahomey	President: Hubert Maga,
+132	Gabon	President: Léon M'ba,	Prime Minister: Léon M'ba,
+133	Ivory Coast	President: Félix Houphouët-Boigny,
+134	Malagasy Republic	President: Philibert Tsiranana,
+135	Mali	Head of State: Modibo Keïta,	Prime Minister: Modibo Keïta,
+136	Mali Federation
+137	Mauritania	President: Moktar Ould Daddah,	Prime Minister: Moktar Ould Daddah,
+138	Niger	President: Hamani Diori,
+139	Nigeria	Monarch: Elizabeth II,	Governor-General: Nnamdi Azikiwe,	Prime Minister - Sir: Abubakar Tafawa Balewa,	Commissioner: John Osbaldiston Field,
+140	Senegal	President: Léopold Sédar Senghor,	Prime Minister: Mamadou Dia,
+141	Somalia	President: Aden Abdullah Osman Daar,	Prime Minister: Abdirashid Ali Shermarke,
+142	Togo	President: Sylvanus Olympio,	Prime Minister: Sylvanus Olympio,
+143	Upper Volta	President: Maurice Yaméogo,
+144	Cyprus	President - Archbishop: Makarios III,
+145	Kingdom of the Netherlands - Juliana
+146	Kingdom of the Netherlands - Juliana - The Netherlands
+147	Kingdom of the Netherlands - Juliana - The Netherlands - Netherlands Antilles
+148	Kingdom of the Netherlands - Juliana - The Netherlands - Netherlands Antilles - Suriname
+149	Sierra Leone	Monarch: Elizabeth II,	Governor-General - Sir: Maurice Henry Dorman,	Prime Minister - Sir: Milton Margai,
+150	Tanganyika	Monarch: Elizabeth II,	Governor-General - Sir: Richard Turnbull,
+151	Kuwait	Politician agent: John Richmond,	Monarch - Sheikh: Abdullah III Al-Salim Al-Sabah,
+152	Algeria
+153	Burundi
+154	Rwanda
+155	Uganda
+156	Jamaica
+157	Trinidad and Tobago
+158	Western Samoa
+159	Kenya
+160	Zanzibar
+161	Malaysia
+162	Malawi
+163	Tanzania
+164	Zambia
+165	Malta
+166	The Gambia
+167	Rhodesia
+168	Maldives
+169	Singapore
+170	Botswana
+171	Congo–Kinshasa
+172	Lesotho
+173	Barbados
+174	Guyana
