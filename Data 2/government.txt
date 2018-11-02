@@ -1,0 +1,191 @@
+United States	federal	presidential	constitutional republic
+China	unitary	one-party	socialist	republic
+Japan	unitary	parliamentary	constitutional monarchy
+Germany	federal	parliamentary	republic
+United Kingdom	unitary	parliamentary	constitutional monarchy
+India	federal	parliamentary	socialist	republic
+France	unitary	republic
+Brazil	federal	presidential	constitutional	republic
+Italy	unitary	parliamentary	constitutional	republic
+Canada	federal	parliamentary	constitutional monarchy
+South Korea	unitary	presidential	constitutional	republic
+Russia	federal	dominant-party	semi-presidential	constitutional republic
+Australia	federal	parliamentary	constitutional monarchy
+Spain	unitary	parliamentary	constitutional monarchy
+Mexico	federal	presidential	constitutional republic
+Indonesia	unitary	presidential	constitutional republic
+Turkey	unitary	presidential	constitutional	republic
+Netherlands	unitary	parliamentary	constitutional monarchy
+Saudi Arabia	unitary	islamic	totalitarian	absolute monarchy
+Switzerland	federal	semi-direct democracy	multi-party	parliamentary	directorial	republic
+Argentina	federal	presidential
+Taiwan	unitary	semi-presidential	republic
+Sweden	unitary	parliamentary	constitutional monarchy
+Poland	unitary	semi-presidential	republic
+Belgium	federal	parliamentary	constitutional monarchy
+Thailand	unitary	parliamentary	constitutional monarchy	military junta
+Iran	unitary	khomeinist	presidential	islamic republic	theocratic	republican	unitary	presidential republic	supreme leader
+Austria	federal	parliamentary republic
+Norway	unitary	parliamentary	constitutional monarchy
+United Arab Emirates	
+Nigeria	federal	presidential	republic
+Israel	unitary parliamentary republic
+South Africa	unitary	dominant-party	parliamentary	constitutional republic
+Hong Kong	devolved	executive-led	socialist republic
+Ireland	
+Denmark	unitary	parliamentary	constitutional monarchy
+Singapore	unitary	dominant-party	parliamentary	republic
+Malaysia	federal	parliamentary	elective	constitutional monarchy
+Philippines	unitary	presidential	constitutional	republic
+Colombia	unitary	presidential	constitutional	republic
+Pakistan	federal parliamentary constitutional republic
+Chile	unitary	presidential
+Bangladesh	unitary	parliamentary	republic
+Finland	unitary	parliamentary	republic
+Egypt	unitary	semi-presidential	republic
+Vietnam	unitary	marxist-leninist	one-party	socialist	republic
+Portugal	unitary	semi-presidential	constitutional	republic
+Peru	
+Czech Republic	unitary	parliamentary	constitutional republic
+Romania	unitary	semi-presidential	republic
+Venezuela	federal	presidential	constitutional republic
+New Zealand	unitary	parliamentary	constitutional monarchy
+Greece	unitary parliamentary republic
+Iraq	federal	parliamentary	republic
+Algeria	unitary	semi-presidential
+Qatar	unitary	constitutional	monarchy
+Kazakhstan	unitary	presidential	constitutional republic
+Hungary	unitary	parliamentary	republic
+Angola	unitary	dominant-party	presidential	constitutional republic
+Kuwait	unitary	constitutional monarchy
+Morocco	unitary	parliamentary	constitutional monarchy
+Ukraine	unitary	semi-presidential	constitutional republic
+Ecuador	unitary	presidential
+Puerto Rico	commonwealth	[b]
+Slovakia	unitary	parliamentary	republic
+Sri Lanka	unitary	semi-presidential	constitutional republic
+Ethiopia	federal	dominant-party	parliamentary	republic
+Kenya	unitary	presidential	constitutional	republic
+Syria	unitary	dominant-party	semi-presidential	republic
+Guatemala	unitary	presidential	republic
+Dominican Republic	
+Oman	unitary	parliamentary	absolute monarchy
+Myanmar	unitary	parliamentary	constitutional republic
+Luxembourg	unitary	parliamentary	constitutional monarchy
+Uruguay	unitary	presidential
+Panama	unitary	presidential	constitutional republic
+Costa Rica	unitary	presidential	constitutional	republic
+Sudan	federal	dominant-party	presidential republic	de jure	one-party state	totalitarian	dictatorship	de facto
+Bulgaria	unitary	parliamentary	constitutional	republic
+Croatia	unitary	parliamentary	constitutional republic
+Belarus	unitary	presidential	republic
+Tanzania	unitary	dominant-party	presidential	constitutional	socialist	republic
+Lebanon	unitary	parliamentary	multi-confessionalist	republic
+Macau	devolved	parliamentary	multi-party system	socialist	republic
+Slovenia	unitary	parliamentary	constitutional republic
+Uzbekistan	unitary	presidential	constitutional	republic
+Lithuania	unitary	semi-presidential	republic
+Ghana	unitary	presidential	constitutional republic
+Serbia	unitary	parliamentary	constitutional republic
+Democratic Republic of the Congo	
+Azerbaijan	unitary	dominant-party	semi-presidential	republic
+Jordan	unitary	parliamentary	constitutional monarchy
+Ivory Coast	unitary	presidential	republic	parliamentary system
+Tunisia	unitary	semi-presidential	republic
+Turkmenistan	unitary	presidential republic	one-party	authoritarian	dictatorship
+Bolivia	unitary	presidential
+Bahrain	unitary	constitutional	monarchy
+Cameroon	unitary	dominant-party	presidential republic	authoritarian	dictatorship
+Libya	
+Latvia	unitary	parliamentary	constitutional republic
+Paraguay	unitary	dominant-party	presidential	republic
+El Salvador	unitary	presidential	constitutional republic
+Uganda	unitary	dominant-party	semi-presidential	republic
+Estonia	unitary	parliamentary	republic
+Zambia	unitary	presidential	constitutional republic
+Nepal	federal	parliamentary	republic
+Iceland	unitary	parliamentary	republic
+Papua New Guinea	unitary	parliamentary	constitutional monarchy
+Honduras	presidential republic
+Cambodia	unitary	dominant-party	parliamentary	elective	constitutional monarchy
+Cyprus	unitary	presidential	constitutional republic
+Afghanistan	unitary	presidential	islamic republic
+Trinidad and Tobago	unitary	parliamentary	constitutional republic
+Bosnia and Herzegovina	federal	parliamentary	constitutional	republic
+Laos	unitary	one-party	socialist	republic
+Zimbabwe	unitary	presidential	republic
+Botswana	unitary	parliamentary republic
+Yemen	unitary	provisional government
+Senegal	unitary	semi-presidential republic
+Georgia	
+Mali	
+Gabon	unitary	dominant-party	presidential republic
+Jamaica	unitary	parliamentary	representative democracy	constitutional monarchy
+Nicaragua	unitary	dominant-party	presidential	constitutional republic
+Burkina Faso	unitary	semi-presidential	republic
+Albania	unitary	parliamentary	constitutional republic
+Namibia	unitary	dominant-party	semi-presidential	republic
+Mozambique	unitary	dominant-party	semi-presidential	constitutional	republic
+Mauritius	unitary	parliamentary republic
+Malta	unitary	parliamentary	constitutional republic
+Brunei	unitary	islamic	absolutemonarchy
+Macedonia	
+Armenia	unitary	parliamentary	republic
+Mongolia	unitary	semi-presidential	republic
+Madagascar	unitary	semi-presidential	constitutional republic
+Equatorial Guinea	unitary	dominant-party	presidential republic	de jure	authoritarian	dictatorship	de facto
+Chad	unitary	dominant-party	presidential republic	de jure	totalitarian	dictatorship	de facto
+Benin	presidential	republic
+Guinea	unitary	presidential republic
+Bahamas	unitary	parliamentary	constitutional monarchy
+Rwanda	unitary	dominant-party	presidential	republic
+Kosovo	unitary	parliamentary	constitutional	republic
+Haiti	unitary	semi-presidential	republic
+Moldova	unitary	parliamentary	constitutional	republic
+Niger	unitary	semi-presidential	republic
+Republic of Congo	unitary	semi-presidential	republic
+Tajikistan	unitary	dominant-party	presidential	constitutional	republic
+Kyrgyzstan	unitary	parliamentary republic
+Malawi	unitary	presidential	republic
+Eritrea	unitary	one-party	presidential republic
+Fiji	unitary	parliamentary	constitutional republic
+Mauritania	unitary	semi-presidential	islamic republic
+Barbados	unitary	parliamentary	constitutional monarchy
+Togo	unitary	dominant-party	presidential republic
+Maldives	unitary	presidential	republic
+Montenegro	unitary	dominant-party	parliamentary	constitutional	republic
+Swaziland	unitary	parliamentary	absolute diarchy
+Sierra Leone	unitary	presidential	constitutional republic
+Suriname	presidential republic
+Guyana	unitary	presidential	constitutional	socialist	republic
+Burundi	presidential	republic
+South Sudan	federal	presidential	constitutional republic
+Lesotho	unitary	parliamentary	constitutional monarchy
+Timor-Leste	unitary	semi-presidential	constitutional republic
+Bhutan	unitary	parliamentary	constitutional monarchy
+Liberia	unitary	presidential	constitutional republic
+Djibouti	unitary	dominant-party	presidential	republic
+Central African Republic	unitary	semi-presidential	constitutional republic
+Belize	unitary	parliamentary	constitutional monarchy
+Cape Verde	unitary	semi-presidential	republic
+St. Lucia	unitary	parliamentary	constitutional monarchy
+San Marino	unitary	parliamentary	directorial republic
+Antigua and Barbuda	unitary	parliamentary	constitutional monarchy
+Seychelles	unitary	presidential	republic
+Guinea-Bissau	unitary	semi-presidential	republic
+Solomon Islands	unitary	parliamentary	constitutional monarchy
+Grenada	unitary	two-party	parliamentary system	constitutional monarchy
+The Gambia	unitary	presidential	republic
+St. Kitts and Nevis	federal	parliamentary	constitutional monarchy
+Samoa	unitary	dominant-party	parliamentary democracy
+Vanuatu	unitary	parliamentary	republic
+St. Vincent and the Grenadines	unitary	parliamentary	constitutional monarchy
+Comoros	federal	presidential	republic
+Dominica	unitary	parliamentary republic
+Tonga	unitary	parliamentary	constitutional monarchy
+São Tomé and Príncipe	unitary	semi-presidential	republic
+Federated States of Micronesia	federated	presidential republic	non-partisan democracy
+Palau	unitary	presidential	constitutional republic	non-partisan democracy
+Marshall Islands	unitary	parliamentary republic
+Kiribati	unitary	parliamentary republic
+Tuvalu	unitary	non-partisan	parliamentary	constitutional monarchy

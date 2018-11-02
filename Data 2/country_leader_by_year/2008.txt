@@ -1,0 +1,215 @@
+1	Algeria	{"Prime Minister": ["Abdelaziz Belkhadem", "Ahmed Ouyahia"]}
+2	Angola	{"Prime Minister": ["Fernando da Piedade Dias dos Santos", "Paulo Kassoma"]}
+3	Benin	{"President": ["Thomas Boni Yayi"]}
+4	Botswana	{"President": ["Festus Mogae", "Ian Khama"]}
+5	Burkina Faso	{"President": ["Blaise Compaoré"], "Prime Minister": ["Tertius Zongo"]}
+6	Burundi	{"President": ["Pierre Nkurunziza"]}
+7	Cameroon	{"President": ["Paul Biya"], "Prime Minister": ["Ephraïm Inoni"]}
+8	Cape Verde	{"President": ["Pedro Pires"], "Prime Minister": ["José Maria Neves"]}
+9	Central African Republic	{"Prime Minister": ["Élie Doté", "Faustin-Archange Touadéra"]}
+10	Chad	{"Prime Minister": ["Delwa Kassiré Koumakoye", "Youssouf Saleh Abbas"]}
+11	Comoros	{"President": ["Ahmed Abdallah Mohamed Sambi"]}
+12	Congo–Brazzaville (Republic of the Congo)	{"President": ["Denis Sassou Nguesso"], "Prime Minister": ["Isidore Mvouba"]}
+13	Congo–Kinshasa (Democratic Republic of the Congo)	{"Prime Minister": ["Antoine Gizenga", "Adolphe Muzito"]}
+14	Djibouti	{"President": ["Ismaïl Omar Guelleh"], "Prime Minister": ["Dileita Mohamed Dileita"]}
+15	Egypt	{"President": ["Hosni Mubarak"], "Prime Minister": ["Ahmed Nazif"]}
+16	Equatorial Guinea	{"Prime Minister": ["Ricardo Mangue Obama Nfubea", "Ignacio Milam Tang"]}
+17	Eritrea	{"President": ["Isaias Afwerki"]}
+18	Ethiopia	{"President": ["Girma Wolde-Giorgis"], "Prime Minister": ["Meles Zenawi"]}
+19	Gabon	{"President": ["Omar Bongo"], "Prime Minister": ["Jean Eyeghé Ndong"]}
+20	The Gambia	{"President": ["Yahya Jammeh"]}
+21	Ghana	{"President": ["John Kufuor"]}
+22	Guinea	{"President": ["Lansana Conté", "Aboubacar Somparé", "Moussa Dadis Camara"], "Prime Minister": ["Lansana Kouyaté", "Ahmed Tidiane Souaré", "Kabiné Komara"]}
+23	Guinea-Bissau	{"Prime Minister": ["Martinho Ndafa Kabi", "Carlos Correia"]}
+24	Ivory Coast	{"President": ["Laurent Gbagbo"], "Prime Minister": ["Guillaume Soro"]}
+25	Kenya	{"President": ["Mwai Kibaki"], "Prime Minister": ["Raila Odinga"]}
+26	Lesotho	{"Monarch": ["Letsie III"], "Prime Minister": ["Pakalitha Mosisili"]}
+27	Liberia	{"President": ["Ellen Johnson Sirleaf"]}
+28	Libya	{"Head of State": ["Muhammad az-Zanati", "Miftah Muhammed K'eba"]}
+29	Madagascar	{"President": ["Marc Ravalomanana"], "Prime Minister": ["Charles Rabemananjara"]}
+30	Malawi	{"President": ["Bingu wa Mutharika"]}
+31	Mali	{"President": ["Amadou Toumani Touré"], "Prime Minister": ["Modibo Sidibé"]}
+32	Mauritania	{"Head of State": ["Sidi Ould Cheikh Abdallahi", "Mohamed Ould Abdel Aziz"], "Prime Minister": ["Zeine Ould Zeidane", "Yahya Ould Ahmed El Waghef", "Moulaye Ould Mohamed Laghdaf"]}
+33	Mauritius	{"President – Sir": ["Anerood Jugnauth"], "Prime Minister": ["Navin Ramgoolam"]}
+34	Mayotte	{"Prefect": ["Vincent Bouvier", "Denis Robin"], "Head of Government": ["Saïd Omar Oili", "Ahmed Attoumani Douchina"]}
+35	Morocco	{"Monarch": ["Mohammed VI"], "Prime Minister": ["Abbas El Fassi"], "": ["Western Sahara"]}
+36	Mozambique	{"President": ["Armando Guebuza"], "Prime Minister": ["Luísa Diogo"]}
+37	Namibia	{"President": ["Hifikepunye Pohamba"], "Prime Minister": ["Nahas Angula"]}
+38	Niger	{"President": ["Mamadou Tandja"], "Prime Minister": ["Seyni Oumarou"]}
+39	Nigeria	{"President": ["Umaru Musa Yar'Adua"]}
+40	Rwanda	{"President": ["Paul Kagame"], "Prime Minister": ["Bernard Makuza"]}
+41	Saint Helena and Dependencies	{"Governor": ["Andrew Gurr"]}
+42	São Tomé and Príncipe	{"Prime Minister": ["Tomé Vera Cruz", "Patrice Trovoada", "Joaquim Rafael Branco"]}
+43	Senegal	{"President": ["Abdoulaye Wade"], "Prime Minister": ["Cheikh Hadjibou Soumaré"]}
+44	Seychelles	{"President": ["James Michel"]}
+45	Sierra Leone	{"President": ["Ernest Bai Koroma"]}
+46	Somalia	{"President": ["Abdullahi Yusuf Ahmed", "Adan Mohamed Nuur Madobe"]}
+47	South Africa	{"President": ["Thabo Mbeki", "Kgalema Motlanthe"]}
+48	Sudan	{"President": ["Omar al-Bashir"]}
+49	Swaziland	{"Prime Minister": ["Themba Dlamini", "Bheki Dlamini", "Barnabas Sibusiso Dlamini"]}
+50	Tanzania	{"Prime Minister": ["Edward Lowassa", "Mizengo Pinda"]}
+51	Togo	{"Prime Minister": ["Komlan Mally", "Gilbert Houngbo"]}
+52	Tunisia	{"President": ["Zine El Abidine Ben Ali"], "Prime Minister": ["Mohamed Ghannouchi"]}
+53	Uganda	{"President": ["Yoweri Museveni"], "Prime Minister": ["Apolo Nsibambi"]}
+54	Zambia	{"President": ["Levy Mwanawasa", "Rupiah Banda"]}
+55	Zimbabwe	{"President": ["Robert Mugabe"]}
+56	Afghanistan	{"President": ["Hamid Karzai"]}
+57	Bahrain	{"Monarch – Sheikh": ["Hamad bin Isa Al Khalifa"], "Prime Minister – Sheikh": ["Khalifa bin Salman Al Khalifa"]}
+58	Bangladesh	{"President": ["Iajuddin Ahmed"], "Prime Minister": ["Fakhruddin Ahmed"]}
+59	Bhutan	{"Prime Minister": ["Kinzang Dorji", "Jigme Thinley"]}
+60	Brunei	{"Monarch": ["Hassanal Bolkiah"], "Prime Minister": ["Hassanal Bolkiah"]}
+61	Cambodia	{"Monarch": ["Norodom Sihamoni"], "Prime Minister": ["Hun Sen"]}
+62	China (People's Republic of China)	{"Communist Party Leader": ["Hu Jintao"], "President": ["Hu Jintao"], "Premier": ["Wen Jiabao"]}
+63	East Timor	{"Prime Minister": ["Xanana Gusmão"]}
+64	India	{"President": ["Pratibha Patil"], "Prime Minister": ["Manmohan Singh"]}
+65	Indonesia	{"President": ["Susilo Bambang Yudhoyono"]}
+66	Iran	{"Supreme Leader – Ayatollah": ["Ali Khamenei"], "President": ["Mahmoud Ahmadinejad"]}
+67	Iraq	{"Head of State": ["Presidency Council of Iraq"], "Prime Minister": ["Nouri al-Maliki"]}
+68	Israel	{"President": ["Shimon Peres"], "Prime Minister": ["Ehud Olmert"], "": ["Palestinian National Authority"]}
+69	Japan	{"Prime Minister": ["Yasuo Fukuda", "Tarō Asō"]}
+70	Jordan	{"Monarch": ["Abdullah II"], "Prime Minister": ["Nader al-Dahabi"]}
+71	Kazakhstan	{"President": ["Nursultan Nazarbayev"], "Prime Minister": ["Karim Massimov"]}
+72	North Korea (Democratic People's Republic of Korea)	{"Communist Party Leader": ["Kim Jong-il"], "Head of State": ["Kim Jong-il", "Kim Yong-nam"], "Premier": ["Kim Yong-il"]}
+73	South Korea (Republic of Korea)	{"President": ["Roh Moo-hyun", "Lee Myung-bak"], "Prime Minister": ["Han Duck-soo", "Han Seung-soo"]}
+74	Kuwait	{"Monarch – Sheikh": ["Sabah Al-Ahmad Al-Jaber Al-Sabah"], "Prime Minister – Sheikh": ["Nasser Al-Sabah"]}
+75	Kyrgyzstan	{"President": ["Kurmanbek Bakiyev"], "Prime Minister": ["Igor Chudinov"]}
+76	Laos	{"Communist Party Leader": ["Choummaly Sayasone"], "President": ["Choummaly Sayasone"], "Premier": ["Bouasone Bouphavanh"]}
+77	Lebanon	{"President": ["Fouad Siniora", "Michel Suleiman"]}
+78	Malaysia	{"Monarch – Tuanku": ["Mizan Zainal Abidin"], "Prime Minister": ["Abdullah Ahmad Badawi"]}
+79	Maldives	{"President": ["Maumoon Abdul Gayoom", "Mohamed Nasheed"]}
+80	Mongolia	{"President": ["Nambaryn Enkhbayar"], "Prime Minister": ["Sanjaagiin Bayar"]}
+81	Myanmar	{"Head of State": ["Than Shwe"], "Prime Minister": ["Thein Sein"]}
+82	Nepal	{"Head of State": ["Girija Prasad Koirala", "Ram Baran Yadav"], "Prime Minister": ["Girija Prasad Koirala", "Pushpa Kamal Dahal"]}
+83	Oman	{"Monarch": ["Qaboos bin Said al Said"], "Prime Minister": ["Qaboos bin Said al Said"]}
+84	Pakistan	{"President": ["Pervez Musharraf", "Muhammad Mian Soomro", "Asif Ali Zardari"], "Prime Minister": ["Muhammad Mian Soomro", "Yousaf Raza Gillani"]}
+85	Philippines	{"President": ["Gloria Macapagal Arroyo"]}
+86	Qatar	{"Monarch – Sheikh": ["Hamad bin Khalifa Al Thani"], "Prime Minister – Sheikh": ["Hamad bin Jassim bin Jaber Al Thani"]}
+87	Saudi Arabia	{"Monarch": ["Abdullah"], "Prime Minister": ["Abdullah"]}
+88	Singapore	{"President": ["S. R. Nathan"], "Prime Minister": ["Lee Hsien Loong"]}
+89	Sri Lanka	{"President": ["Mahinda Rajapaksa"], "Prime Minister": ["Ratnasiri Wickremanayake"]}
+90	Syria	{"President": ["Bashar al-Assad"], "Prime Minister": ["Muhammad Naji al-Otari"]}
+91	Taiwan (Republic of China)	{"President": ["Chen Shui-bian", "Ma Ying-jeou"], "Premier": ["Chang Chun-hsiung", "Liu Chao-shiuan"]}
+92	Tajikistan	{"President": ["Emomali Rahmon"], "Prime Minister": ["Oqil Oqilov"]}
+93	Thailand	{"Prime Minister": ["Surayud Chulanont", "Samak Sundaravej", "Somchai Wongsawat", "Chaovarat Chanweerakul", "Abhisit Vejjajiva"]}
+94	Turkey	{"President": ["Abdullah Gül"], "Prime Minister": ["Recep Tayyip Erdoğan"]}
+95	Turkmenistan	{"President": ["Gurbanguly Berdimuhamedow"]}
+96	United Arab Emirates	{"President – Sheikh": ["Khalifa bin Zayed Al Nahyan"], "Prime Minister – Sheikh": ["Mohammed bin Rashid Al Maktoum"]}
+97	Uzbekistan	{"President": ["Islam Karimov"], "Prime Minister": ["Shavkat Mirziyoyev"]}
+98	Vietnam	{"Communist Party Leader": ["Nông Đức Mạnh"], "President": ["Nguyễn Minh Triết"], "Prime Minister": ["Nguyễn Tấn Dũng"]}
+99	Yemen	{"President": ["Ali Abdullah Saleh"], "Prime Minister": ["Ali Muhammad Mujawar"]}
+100	Albania	{"President": ["Bamir Topi"], "Prime Minister": ["Sali Berisha"]}
+101	Andorra	{"Prime Minister": ["Albert Pintat"]}
+102	Armenia	{"President": ["Robert Kocharyan", "Serzh Sargsyan"], "Prime Minister": ["Serzh Sargsyan", "Tigran Sargsyan"]}
+103	Austria	{"Chancellor": ["Alfred Gusenbauer", "Werner Faymann"]}
+104	Azerbaijan	{"President": ["Ilham Aliyev"], "Prime Minister": ["Artur Rasizade"], "": ["Nagorno-Karabakh"]}
+105	Belarus	{"President": ["Alexander Lukashenko"], "Prime Minister": ["Sergei Sidorsky"]}
+106	Belgium	{"Prime Minister": ["Guy Verhofstadt", "Yves Leterme", "Herman Van Rompuy"]}
+107	Bosnia and Herzegovina	{"Head of State": ["Presidency of Bosnia and Herzegovina"], "Prime Minister": ["Nikola Špirić"], "High Representative": ["Miroslav Lajčák"]}
+108	Bulgaria	{"President": ["Georgi Parvanov"], "Prime Minister": ["Sergei Stanishev"]}
+109	Croatia	{"President": ["Stjepan Mesić"], "Prime Minister": ["Ivo Sanader"]}
+110	Cyprus	{"President": ["Tassos Papadopoulos", "Demetris Christofias"]}
+111	Czech Republic	{"President": ["Václav Klaus"], "Prime Minister": ["Mirek Topolánek"]}
+112	Denmark	{"Monarch": ["Margrethe II"], "Prime Minister": ["Anders Fogh Rasmussen"]}
+113	Estonia	{"President": ["Toomas Hendrik Ilves"], "Prime Minister": ["Andrus Ansip"]}
+114	Finland	{"President": ["Tarja Halonen"], "Prime Minister": ["Matti Vanhanen"]}
+115	France	{"President": ["Nicolas Sarkozy"], "Prime Minister": ["François Fillon"]}
+116	Georgia	{"President": ["Nino Burjanadze", "Mikheil Saakashvili"], "Prime Minister": ["Lado Gurgenidze", "Grigol Mgaloblishvili"]}
+117	Germany	{"President": ["Horst Köhler"], "Chancellor": ["Angela Merkel"]}
+118	Greece	{"President": ["Karolos Papoulias"], "Prime Minister": ["Kostas Karamanlis"]}
+119	Hungary	{"President": ["László Sólyom"], "Prime Minister": ["Ferenc Gyurcsány"]}
+120	Iceland	{"President": ["Ólafur Ragnar Grímsson"], "Prime Minister": ["Geir Haarde"]}
+121	Ireland	{"Prime Minister": ["Bertie Ahern", "Brian Cowen"]}
+122	Italy	{"Prime Minister": ["Romano Prodi", "Silvio Berlusconi"]}
+123	Latvia	{"President": ["Valdis Zatlers"], "Prime Minister": ["Ivars Godmanis"]}
+124	Liechtenstein	{"Monarch": ["Hans-Adam II"], "Regent – Hereditary Prince": ["Alois"], "Prime Minister": ["Otmar Hasler"]}
+125	Lithuania	{"Prime Minister": ["Gediminas Kirkilas", "Andrius Kubilius"]}
+126	Luxembourg	{"Monarch": ["Henri"], "Prime Minister": ["Jean-Claude Juncker"]}
+127	Macedonia	{"President": ["Branko Crvenkovski"], "Prime Minister": ["Nikola Gruevski"]}
+128	Malta	{"President": ["Eddie Fenech Adami"], "Prime Minister": ["Lawrence Gonzi"]}
+129	Moldova	{"Prime Minister": ["Vasile Tarlev", "Zinaida Greceanîi"]}
+130	Monaco	{"Monarch": ["Albert II"], "Prime Minister": ["Jean-Paul Proust"]}
+131	Montenegro	{"Prime Minister": ["Željko Šturanović", "Milo Đukanović"]}
+132	Kingdom of the Netherlands	{"Monarch": ["Beatrix"], "": ["Netherlands", "Netherlands Antilles", "Aruba"]}
+133	Norway	{"Monarch": ["Harald V"], "Prime Minister": ["Jens Stoltenberg"]}
+134	Poland	{"President": ["Lech Kaczyński"], "Prime Minister": ["Donald Tusk"]}
+135	Portugal	{"President": ["Aníbal Cavaco Silva"], "Prime Minister": ["José Sócrates"]}
+136	Romania	{"Prime Minister": ["Călin Popescu-Tăriceanu", "Emil Boc"]}
+137	Russia	{"President": ["Vladimir Putin", "Dmitry Medvedev"], "Prime Minister": ["Viktor Zubkov", "Vladimir Putin"]}
+138	San Marino	{"Captains-Regent": ["Mirko Tomassoni", "Rosa Zafferani", "Ernesto Benedettini"]}
+139	Serbia	{"Prime Minister": ["Vojislav Koštunica", "Mirko Cvetković"]}
+140	Slovakia	{"President": ["Ivan Gašparovič"], "Prime Minister": ["Robert Fico"]}
+141	Slovenia	{"Prime Minister": ["Janez Janša", "Borut Pahor"]}
+142	Spain	{"Monarch": ["Juan Carlos I"], "Prime Minister": ["José Luis Rodríguez Zapatero"]}
+143	Sweden	{"Monarch": ["Carl XVI Gustaf"], "Prime Minister": ["Fredrik Reinfeldt"]}
+144	Switzerland	{"Council": ["Federal Council of Switzerland"]}
+145	Ukraine	{"President": ["Viktor Yushchenko"], "Prime Minister": ["Yulia Tymoshenko"]}
+146	United Kingdom	{"Monarch": ["Elizabeth II"], "Prime Minister": ["Gordon Brown"], "": ["Isle of Man", "Guernsey", "Jersey", "Gibraltar"]}
+147	Vatican City	{"Monarch": ["Pope"], "Head of Government – Cardinal": ["Giovanni Lajolo"]}
+148	Anguilla	{"Governor": ["Andrew George"], "Chief Minister": ["Osbourne Fleming"]}
+149	Antigua and Barbuda	{"Monarch": ["Elizabeth II"], "Governor-General – Dame": ["Louise Lake-Tack"], "Prime Minister": ["Baldwin Spencer"]}
+150	Aruba	{"Governor": ["Fredis Refunjol"], "Prime Minister": ["Nelson Oduber"]}
+151	The Bahamas	{"Monarch": ["Elizabeth II"], "Governor-General": ["Arthur Dion Hanna"], "Prime Minister": ["Hubert Ingraham"]}
+152	Barbados	{"Prime Minister": ["Owen Arthur", "David Thompson"]}
+153	Belize	{"Prime Minister": ["Said Musa", "Dean Barrow"]}
+154	Bermuda	{"Governor – Sir": ["Richard Gozney"], "Premier": ["Ewart Brown"]}
+155	British Virgin Islands	{"Governor": ["David Pearey"], "Premier": ["Ralph T. O'Neal"]}
+156	Canada	{"Monarch": ["Elizabeth II"], "Governor-General": ["Michaëlle Jean"], "Prime Minister": ["Stephen Harper"]}
+157	Cayman Islands	{"Governor": ["Stuart Jack"], "Head of Government": ["Kurt Tibbetts"]}
+158	Costa Rica	{"President": ["Óscar Arias"]}
+159	Cuba	{"President": ["Fidel Castro", "Raúl Castro"], "Prime Minister": ["Fidel Castro", "Raúl Castro"]}
+160	Dominica	{"President": ["Nicholas Liverpool"], "Prime Minister": ["Roosevelt Skerrit"]}
+161	Dominican Republic	{"President": ["Leonel Fernández"]}
+162	El Salvador	{"President": ["Antonio Saca"]}
+163	Grenada	{"Governor-General": ["Daniel Williams", "Carlyle Glean"], "Prime Minister": ["Keith Mitchell", "Tillman Thomas"]}
+164	Guatemala	{"President": ["Óscar Berger", "Álvaro Colom"]}
+165	Haiti	{"Prime Minister": ["Jacques-Édouard Alexis", "Michèle Pierre-Louis"]}
+166	Honduras	{"President": ["Manuel Zelaya"]}
+167	Jamaica	{"Monarch": ["Elizabeth II"], "Governor-General – Sir": ["Kenneth O. Hall"], "Prime Minister": ["Bruce Golding"]}
+168	Mexico	{"President": ["Felipe Calderón"]}
+169	Montserrat	{"Governor": ["Peter Waterworth"], "Chief Minister": ["Lowell Lewis"]}
+170	Netherlands Antilles	{"Governor": ["Frits Goedgedrag"], "Prime Minister": ["Emily de Jongh-Elhage"]}
+171	Nicaragua	{"President": ["Daniel Ortega"]}
+172	Panama	{"President": ["Martín Torrijos"]}
+173	Saint Barthélemy	{"Prefect": ["Dominique Lacroix"], "Head of Government": ["Bruno Magras"]}
+174	Saint Kitts and Nevis	{"Monarch": ["Elizabeth II"], "Governor-General – Sir": ["Cuthbert Sebastian"], "Prime Minister": ["Denzil Douglas"]}
+175	Saint Lucia	{"Monarch": ["Elizabeth II"], "Governor-General – Dame": ["Pearlette Louisy"], "Prime Minister": ["Stephenson King"]}
+176	Saint Martin	{"Head of Government": ["Louis Constant Fleming", "Marthe Ogoundélé", "Frantz Gumbs"]}
+177	Saint Pierre and Miquelon	{"Prefect": ["Yves Fauqueur", "Jean-Pierre Berçot"]}
+178	Saint Vincent and the Grenadines	{"Monarch": ["Elizabeth II"], "Governor-General – Sir": ["Frederick Ballantyne"], "Prime Minister": ["Ralph Gonsalves"]}
+179	Trinidad and Tobago	{"President": ["George Maxwell Richards"], "Prime Minister": ["Patrick Manning"]}
+180	Turks and Caicos Islands	{"Governor": ["Richard Tauwhare", "Mahala Wynns", "Gordon Wetherell"]}
+181	United States	{"President": ["George W. Bush"], "": ["Puerto Rico", "United States Virgin Islands"]}
+182	American Samoa	{"Governor": ["Togiola Tulafono"]}
+183	Australia	{"Governor-General": ["Michael Jeffery", "Quentin Bryce"]}
+184	Fiji	{"President – Ratu": ["Josefa Iloilo"], "Prime Minister": ["Frank Bainimarama"]}
+185	French Polynesia	{"High Commissioner": ["Anne Bouquet", "Éric Spitz", "Adolphe Colrat"], "President": ["Oscar Temaru", "Gaston Flosse", "Gaston Tong Sang"]}
+186	Guam	{"Governor": ["Felix Perez Camacho"]}
+187	Kiribati	{"President": ["Anote Tong"]}
+188	Marshall Islands	{"President": ["Kessai Note", "Litokwa Tomeing"]}
+189	Micronesia	{"President": ["Manny Mori"]}
+190	Nauru	{"President": ["Marcus Stephen"]}
+191	New Caledonia	{"High Commissioner": ["Yves Dassonville"], "Head of Government": ["Harold Martin"]}
+192	New Zealand	{"Prime Minister": ["Helen Clark", "John Key"]}
+193	Northern Mariana Islands	{"Governor": ["Benigno Fitial"]}
+194	Palau	{"President": ["Tommy Remengesau"]}
+195	Papua New Guinea	{"Monarch": ["Elizabeth II"], "Governor-General – Sir": ["Paulias Matane"], "Prime Minister – Sir": ["Michael Somare"]}
+196	Pitcairn Islands	{"Governor": ["George Fergusson"], "Mayor": ["Mike Warren"]}
+197	Samoa	{"Head of State": ["Tufuga Efi"], "Prime Minister": ["Tuilaepa Aiono Sailele Malielegaoi"]}
+198	Solomon Islands	{"Monarch": ["Elizabeth II"], "Governor-General – Sir": ["Nathaniel Waena"], "Prime Minister": ["Derek Sikua"]}
+199	Tonga	{"Monarch": ["George Tupou V"], "Prime Minister": ["Feleti Sevele"]}
+200	Tuvalu	{"Monarch": ["Elizabeth II"], "Governor-General – Sir": ["Filoimea Telito"], "Prime Minister": ["Apisai Ielemia"]}
+201	Vanuatu	{"Prime Minister": ["Ham Lini", "Edward Natapei"]}
+202	Wallis and Futuna	{"Administrator": ["Richard Didier", "Philippe Paolantoni"]}
+203	Argentina	{"President": ["Cristina Fernández de Kirchner"]}
+204	Bolivia	{"President": ["Evo Morales"]}
+205	Brazil	{"President": ["Luiz Inácio Lula da Silva"]}
+206	Chile	{"President": ["Michelle Bachelet"]}
+207	Colombia	{"President": ["Álvaro Uribe"]}
+208	Ecuador	{"President": ["Rafael Correa"]}
+209	Falkland Islands	{"Head of Government": ["Michael Blanch", "Tim Thorogood"]}
+210	Guyana	{"President": ["Bharrat Jagdeo"], "Prime Minister": ["Sam Hinds"]}
+211	Paraguay	{"President": ["Nicanor Duarte", "Fernando Lugo"]}
+212	Peru	{"Prime Minister": ["Jorge Del Castillo", "Yehude Simon"]}
+213	Suriname	{"President": ["Ronald Venetiaan"]}
+214	Uruguay	{"President": ["Tabaré Vázquez"]}
+215	Venezuela	{"President": ["Hugo Chávez"]}
