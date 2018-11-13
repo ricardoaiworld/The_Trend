@@ -1,0 +1,43 @@
+1	Egypt	{"President": ["Muhammad Naguib", "Gamal Abdel Nasser", "Muhammad Naguib", "Gamal Abdel Nasser"]}
+2	Afghanistan	{"Monarch": ["Mohammed Zahir Shah"]}
+3	Bhutan	{"Monarch": ["Jigme Dorji Wangchuck"]}
+4	Burma	{}
+5	Cambodia	{"Prime Minister": ["Chan Nak", "Norodom Sihanouk", "Penn Nouth"]}
+6	Ceylon	{"Governor-General": ["Herwald Ramsbotham, Baron Soulbury", "Oliver Ernest Goonetilleke"]}
+7	China (People's Republic of China)	{"Communist Party Leader": ["Mao Zedong"], "Head of State": ["Mao Zedong"], "Premier": ["Zhou Enlai"]}
+8	India	{}
+9	Indonesia	{"President": ["Sukarno"], "Prime Minister": ["Ali Sastroamidjojo"]}
+10	Iran	{"Monarch": ["Mohammad Reza Pahlavi"]}
+11	Iraq	{"Monarch": ["Faisal II"]}
+12	Albania	{"Premier": ["Enver Hoxha", "Mehmet Shehu"]}
+13	Andorra	{"First Syndic": ["Francesc Cairat Freixes"]}
+14	Austria	{"British high commissioner": ["Harold Caccia", "Geoffrey Wallinger"]}
+15	Belgium	{"Prime Minister": ["Jean Van Houtte", "Achille Van Acker"]}
+16	Bulgaria	{"Communist Party Leader": ["Vulko Chervenkov", "Todor Zhivkov"]}
+17	Czechoslovakia	{"Communist Party Leader": ["Antonín Novotný"]}
+18	Kingdom of Denmark	{"Monarch": ["Frederick IX"]}
+19	Finland	{}
+20	Canada	{"Monarch": ["Elizabeth II"], "Governor General": ["Vincent Massey"]}
+21	Costa Rica	{"President": ["José Figueres Ferrer"]}
+22	Cuba	{"President": ["Fulgencio Batista"], "Prime Minister": ["Andrés Domingo y Morales del Castillo"]}
+23	Dominican Republic	{"Head of State": ["Rafael Trujillo"], "President": ["Héctor Trujillo"]}
+24	El Salvador	{}
+25	Guatemala	{"President": ["Jacobo Árbenz", "Carlos Enrique Díaz de León", "Elfego Hernán Monzón Aguirre", "Carlos Castillo Armas"]}
+26	Haiti	{}
+27	Honduras	{"President": ["Juan Manuel Gálvez", "Julio Lozano Díaz"]}
+28	Mexico	{"President": ["Adolfo Ruiz Cortines"]}
+29	Nicaragua	{}
+30	Panama	{}
+31	United States	{}
+32	Australia	{"Monarch": ["Elizabeth II"], "Governor-General – Sir": ["William Slim"]}
+33	New Zealand	{"Monarch": ["Elizabeth II"], "Governor-General – Sir": ["Willoughby Norrie"]}
+34	Argentina	{}
+35	Bolivia	{}
+36	Brazil	{"President": ["Getúlio Vargas", "Café Filho"]}
+37	Chile	{"President": ["Carlos Ibáñez del Campo"]}
+38	Colombia	{}
+39	Ecuador	{"President": ["José María Velasco Ibarra"]}
+40	Paraguay	{"President": ["Federico Chávez", "Tomás Romero Pereira", "Alfredo Stroessner"]}
+41	Peru	{"Prime Minister": ["Zenón Noriega Agüero", "Roque Augusto Saldías Maninat"]}
+42	Uruguay	{"Head of State": ["Andrés Martínez Trueba"]}
+43	Venezuela	{"President": ["Marcos Pérez Jiménez"]}

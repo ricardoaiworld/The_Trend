@@ -1,0 +1,97 @@
+1	Ethiopia	{"Monarch": ["Haile Selassie"], "Prime Minister": ["Abebe Aregai"]}
+2	Ghana	{"Monarch": ["Elizabeth II"], "Governor-General": ["William Hare, Earl of Listowel"], "Prime Minister": ["Kwame Nkrumah"]}
+3	Guinea	{"President": ["Ahmed Sékou Touré"]}
+4	Liberia	{"President": ["William Tubman"]}
+5	Libya	{"Monarch": ["Idris"], "Prime Minister": ["Abdul Majid Kubar"]}
+6	Morocco	{"Monarch": ["Mohammed V"], "Prime Minister": ["Abdallah Ibrahim"]}
+7	South Africa	{"Governor-General": ["Ernest George Jansen", "Lucas Cornelius Steyn"]}
+8	Sudan	{"President": ["Ibrahim Abboud"], "Prime Minister": ["Ibrahim Abboud"]}
+9	Tunisia	{"President": ["Habib Bourguiba"]}
+10	United Arab Republic	{"President": ["Gamal Abdel Nasser"], "Prime Minister": ["Gamal Abdel Nasser"]}
+11	Afghanistan	{"Monarch": ["Mohammed Zahir Shah"], "Prime Minister": ["Mohammed Daoud Khan"]}
+12	Bhutan	{"Monarch": ["Jigme Dorji Wangchuck"], "Prime Minister": ["Jigme Palden Dorji"]}
+13	Burma	{"President": ["Win Maung"], "Prime Minister": ["Ne Win"]}
+14	Cambodia	{"Monarch": ["Norodom Suramarit"], "Prime Minister - Prince": ["Norodom Sihanouk"]}
+15	Ceylon	{"Prime Minister": ["S. W. R. D. Bandaranaike", "Wijeyananda Dahanayake"]}
+16	China (People's Republic of China)	{"Head of State": ["Mao Zedong", "Liu Shaoqi"]}
+17	India	{"President": ["Rajendra Prasad"], "Prime Minister": ["Jawaharlal Nehru"]}
+18	Indonesia	{"President": ["Sukarno"], "Prime Minister": ["Djuanda Kartawidjaja"]}
+19	Iran	{"Monarch": ["Mohammad Reza Pahlavi"], "Prime Minister": ["Manouchehr Eghbal"]}
+20	Iraq	{"Head of State": ["Muhammad Najib ar-Ruba'i"], "Prime Minister": ["Abd al-Karim Qasim"]}
+21	Israel	{"President": ["Yitzhak Ben-Zvi"], "Prime Minister": ["David Ben-Gurion"]}
+22	Japan	{"Monarch": ["Hirohito"], "Prime Minister": ["Nobusuke Kishi"]}
+23	Jordan	{"Prime Minister": ["Samir al-Rifai", "Hazza` al-Majali"]}
+24	North Korea (Democratic People's Republic of Korea)	{"Communist Party Leader": ["Kim Il-sung"], "Head of State": ["Choi Yong-kun"], "Prime Minister": ["Kim Il-sung"]}
+25	South Korea (Republic of Korea)	{"President": ["Syngman Rhee"]}
+26	Laos	{"Monarch": ["Sisavang Vong", "Savang Vatthana"], "Prime Minister": ["Phoui Sananikone", "Sounthone Pathammavong"]}
+27	Lebanon	{"President": ["Fuad Chehab"], "Prime Minister": ["Rashid Karami"]}
+28	Malaya	{"Monarch": ["Tuanku Abdul Rahman"], "Prime Minister": ["Tunku Abdul Rahman"]}
+29	Mongolia	{"Communist Party Leader": ["Yumjaagiin Tsedenbal"], "Head of State": ["Jamsrangiin Sambuu"], "Premier": ["Yumjaagiin Tsedenbal"]}
+30	Muscat and Oman	{"Monarch": ["Said Bin Taimur"]}
+31	Nepal	{"Prime Minister": ["Subarna Shamsher Rana", "Bishweshwar Prasad Koirala"]}
+32	Pakistan	{"President": ["Ayub Khan"]}
+33	Philippines	{"President": ["Carlos P. Garcia"]}
+34	Saudi Arabia	{"Monarch": ["Saud"], "Prime Minister - Crown Prince": ["Faisal"]}
+35	Suvadive Islands	{"President": ["Abdullah Afeef"]}
+36	Taiwan (Republic of China)	{"President": ["Chiang Kai-shek"], "Premier": ["Chen Cheng"]}
+37	Thailand	{"Monarch": ["Bhumibol Adulyadej"], "Prime Minister": ["Sarit Thanarat"]}
+38	Turkey	{"President": ["Celâl Bayar"], "Prime Minister": ["Adnan Menderes"]}
+39	North Vietnam (Democratic Republic of Vietnam)	{"Communist Party Leader": ["Hồ Chí Minh"], "President": ["Hồ Chí Minh"], "Premier": ["Phạm Văn Đồng"]}
+40	South Vietnam (Republic of Vietnam)	{"President": ["Ngô Đình Diệm"]}
+41	Yemen	{"Monarch": ["Ahmad bin Yahya"]}
+42	Albania	{"Communist Party Leader": ["Enver Hoxha"], "Head of State": ["Haxhi Lleshi"], "Premier": ["Mehmet Shehu"]}
+43	Andorra	{"First Syndic": ["Francesc Cairat Freixes"]}
+44	Austria	{"President": ["Adolf Schärf"], "Chancellor": ["Julius Raab"]}
+45	Belgium	{"Monarch": ["Baudouin"], "Prime Minister": ["Gaston Eyskens"]}
+46	Bulgaria	{"Communist Party Leader": ["Todor Zhivkov"], "Head of State": ["Dimitar Ganev"], "Premier": ["Anton Yugov"]}
+47	Czechoslovakia	{"Communist Party Leader": ["Antonín Novotný"], "President": ["Antonín Novotný"], "Prime Minister": ["Viliam Široký"]}
+48	Denmark	{"Monarch": ["Frederick IX"], "Prime Minister": ["H. C. Hansen"]}
+49	Finland	{"Prime Minister": ["Karl-August Fagerholm", "V. J. Sukselainen"]}
+50	France	{"President": ["René Coty", "Charles de Gaulle"], "Prime Minister": ["Charles de Gaulle", "Michel Debré"]}
+51	East Germany (German Democratic Republic)	{"Communist Party Leader": ["Walter Ulbricht"], "President": ["Wilhelm Pieck"], "Premier": ["Otto Grotewohl"]}
+52	West Germany (Federal Republic of Germany)	{"President": ["Theodor Heuss", "Heinrich Lübke"]}
+53	Greece	{"Monarch": ["Paul"], "Prime Minister": ["Konstantinos Karamanlis"]}
+54	Hungary	{"Communist Party Leader": ["János Kádár"], "Head of State": ["István Dobi"], "Premier": ["Ferenc Münnich"]}
+55	Iceland	{"Prime Minister": ["Emil Jónsson", "Ólafur Thors"]}
+56	Ireland	{"President": ["Seán T. O'Kelly", "Éamon de Valera"], "Prime Minister": ["Éamon de Valera", "Seán Lemass"]}
+57	Italy	{"Prime Minister": ["Amintore Fanfani", "Antonio Segni"]}
+58	Liechtenstein	{"Monarch": ["Franz Joseph II"], "Prime Minister": ["Alexander Frick"]}
+59	Luxembourg	{"Prime Minister": ["Pierre Frieden", "Pierre Werner"]}
+60	Monaco	{"Head of Government": ["Henry Soum", "Émile Pelletier"]}
+61	Kingdom of the Netherlands	{"Monarch": ["Juliana"]}
+62	Norway	{"Monarch": ["Olav V"], "Prime Minister": ["Einar Gerhardsen"]}
+63	Poland	{"Communist Party Leader": ["Władysław Gomułka"], "Head of State": ["Aleksander Zawadzki"], "Premier": ["Józef Cyrankiewicz"]}
+64	Portugal	{"President": ["Américo Tomás"], "Premier": ["António de Oliveira Salazar"]}
+65	Romania	{"Communist Party Leader": ["Gheorghe Gheorghiu-Dej"], "Head of State": ["Ion Gheorghe Maurer"], "Premier": ["Chivu Stoica"]}
+66	San Marino	{"Captains Regent": ["Domenico Forcellini", "Marino Benedetto Belluzzi", "Giuseppe Forcellini"]}
+67	Soviet Union	{"Communist Party Leader": ["Nikita Khrushchev"], "Head of State": ["Kliment Voroshilov"], "Premier": ["Nikita Khrushchev"]}
+68	Spain	{"Head of State": ["Francisco Franco"], "Prime Minister": ["Francisco Franco"]}
+69	Sweden	{"Monarch": ["Gustaf VI Adolf"], "Prime Minister": ["Tage Erlander"]}
+70	Switzerland	{}
+71	United Kingdom	{"Monarch": ["Elizabeth II"], "Prime Minister": ["Harold Macmillan"]}
+72	Vatican City	{"Monarch": ["Pope John XXIII"], "President of the Governorate - Cardinal": ["Nicola Canali"]}
+73	Yugoslavia	{"Communist Party leader": ["Josip Broz Tito"], "President": ["Josip Broz Tito"], "Premier": ["Josip Broz Tito"]}
+74	Canada	{"Governor General": ["Vincent Massey", "Georges Vanier"]}
+75	Costa Rica	{"President": ["Mario Echandi Jiménez"]}
+76	Cuba	{"President": ["Fulgencio Batista", "Anselmo Alliegro y Milá", "Carlos Modesto Piedra", "Manuel Urrutia Lleó", "Osvaldo Dorticós Torrado"], "Prime Minister": ["Gonzalo Güell", "José Miró Cardona", "Fidel Castro"]}
+77	Dominican Republic	{"Head of State": ["Rafael Trujillo"], "President": ["Héctor Trujillo"]}
+78	El Salvador	{"President": ["José María Lemus"]}
+79	Guatemala	{"President": ["Miguel Ydígoras Fuentes"]}
+80	Haiti	{"President": ["François Duvalier"]}
+81	Honduras	{"President": ["Ramón Villeda Morales"]}
+82	Mexico	{"President": ["Adolfo López Mateos"]}
+83	Nicaragua	{"President": ["Luis Somoza Debayle"]}
+84	Panama	{"President": ["Ernesto de la Guardia"]}
+85	United States of America	{"President": ["Dwight D. Eisenhower"]}
+86	Australia	{"Monarch": ["Elizabeth II"], "Governor-General - Sir": ["William Slim"], "Prime Minister": ["Robert Menzies"]}
+87	New Zealand	{"Monarch": ["Elizabeth II"], "Governor-General": ["Charles Lyttelton, Viscount Cobham"], "Prime Minister": ["Walter Nash"]}
+88	Argentina	{"President": ["Arturo Frondizi"]}
+89	Bolivia	{"President": ["Hernán Siles Zuazo"]}
+90	Brazil	{"President": ["Juscelino Kubitschek"]}
+91	Chile	{"President": ["Jorge Alessandri"]}
+92	Colombia	{"President": ["Alberto Lleras Camargo"]}
+93	Ecuador	{"President": ["Camilo Ponce Enríquez"]}
+94	Paraguay	{"President": ["Alfredo Stroessner"]}
+95	Peru	{"Prime Minister": ["Luis Gallo Porras", "Pedro Gerardo Beltrán Espantoso"]}
+96	Uruguay	{"Head of State": ["Carlos Fischer", "Martín Echegoyen"]}
+97	Venezuela	{"President": ["Edgar Sanabria", "Rómulo Betancourt"]}
