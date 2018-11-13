@@ -23,7 +23,10 @@ def store_data():
         d_json = json.dumps(d, ensure_ascii=False)
         f.write('\t' + country + '\t' + d_json + '\n')
         cnt += 1
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7e0913a148f9fbb542947e2b592be88c164c717d
     return
 
 
@@ -34,7 +37,11 @@ def print_data():
 
 
 def get_info():
+<<<<<<< HEAD
     global y
+=======
+    global y    # log use only
+>>>>>>> 7e0913a148f9fbb542947e2b592be88c164c717d
     global D
     D = {}
     start, end = 2018, 2019
@@ -131,8 +138,10 @@ def get_country_name(country):
         name = i.text
         return name
 
+
 def main():
-    get_info()
+    pass
+    # get_info()
 
 
 if __name__ == '__main__':
